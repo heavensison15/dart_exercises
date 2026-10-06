@@ -1,0 +1,10 @@
+Student: Heaven Romeo Sison
+Snack quantity: 3
+Price per snack: PHP 45.5
+Member status: true
+Subtotal: PHP 136.5
+Discount: PHP 13.65
+Total amount: PHP 122.85
+Snack groups of two: 1
+Remaining snacks: 1
+Is the total affordable (PHP 150 or less)? true
