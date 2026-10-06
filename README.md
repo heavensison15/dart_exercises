@@ -1,7 +1,7 @@
 # Dart Exercises – Week 7
 
 **Name:** Heaven Romeo Sison  
-**Course:** BSIT 3.3  
+**Course & Section:** BSIT 3.3  
 **Activity:** Week 7 – Dart Fundamentals – Variables, Data Types, Operators & I/O
 
 ## Scenario
